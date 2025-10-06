@@ -1,0 +1,14 @@
+
+05/10/2025 10:28:56 pm - INFO: Directories created
+05/10/2025 10:28:56 pm - ERROR: Watcher setup error: The directory name C:\Folder1 is invalid.
+05/10/2025 10:28:56 pm - INFO: Service ready
+05/10/2025 10:28:56 pm - INFO: Service started
+05/10/2025 10:29:30 pm - INFO: Service stopped
+05/10/2025 10:32:02 pm - INFO: Directories created
+05/10/2025 10:32:02 pm - INFO: Service ready
+05/10/2025 10:32:02 pm - INFO: Service started
+05/10/2025 10:32:28 pm - INFO: File moved: New Text Document.txt
+05/10/2025 10:32:33 pm - ERROR: Move error: Cannot create a file when that file already exists.
+
+05/10/2025 10:33:50 pm - INFO: File moved: New Text Document.txt
+05/10/2025 10:35:18 pm - INFO: Service stopped

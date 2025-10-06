@@ -1,0 +1,63 @@
+﻿Installing assembly 'C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.InstallLog
+   assemblypath = C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.InstallLog
+   assemblypath = C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
+Uninstalling assembly 'C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.InstallLog
+   assemblypath = C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.InstallLog
+   assemblypath = C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.InstallLog
+   assemblypath = C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
+Uninstalling assembly 'C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.InstallLog
+   assemblypath = C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.InstallLog
+   assemblypath = C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.InstallLog
+   assemblypath = C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
+Uninstalling assembly 'C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.InstallLog
+   assemblypath = C:\Users\EmmanuelJoshuaPaglin\Desktop\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
